@@ -8,15 +8,15 @@ import (
 
 func main() {
 	// create matrix A
-	mat_a_rows := 2000
-	mat_a_cols := 2000
+	mat_a_rows := 1200
+	mat_a_cols := 1200
 	mat_a := createMatrix(mat_a_rows, mat_a_cols, true)
 	fmt.Printf("matrix a dimensions: %d x %d\n", mat_a_rows, mat_a_cols)
 	//fmt.Printf("%v\n\n", mat_a)
 
 	// create matrix B
-	mat_b_rows := 2000
-	mat_b_cols := 2000
+	mat_b_rows := 1200
+	mat_b_cols := 1200
 	mat_b := createMatrix(mat_b_rows, mat_b_cols, true)
 	fmt.Printf("matrix b dimensions: %d x %d\n", mat_b_rows, mat_b_cols)
 	//fmt.Printf("%v\n\n", mat_b)
