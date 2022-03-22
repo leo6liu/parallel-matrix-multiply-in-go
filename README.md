@@ -1,1 +1,1 @@
-# parallel-matrix-multiply-in-go
+# Single- and Multi-Threaded Matrix Multiplication in Go
